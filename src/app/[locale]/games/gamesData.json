@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Katana Zero",
+        "description": "Lorem",
+        "releaseDate": "Soon",
+        "coverPath": "https://cdn.cloudflare.steamstatic.com/steam/apps/460950/header.jpg?t=1666986801",
+        "gameId": "460950"
+    },
+
+    {
+        "name": "The Binding of Isaac",
+        "description": "Test",
+        "releaseDate": "",
+        "coverPath": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg?t=1617174663",
+        "gameId": "250900"
+    },
+
+    {
+        "name": "Portal",
+        "description": "Test",
+        "releaseDate": "TBA",
+        "coverPath": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/header.jpg?t=1682715069",
+        "gameId": "400"
+    },
+
+    {
+        "name": "Half-Life",
+        "description": "Test",
+        "releaseDate": "TBA",
+        "coverPath": "https://cdn.cloudflare.steamstatic.com/steam/apps/70/header.jpg?t=1683302000",
+        "gameId": "70"
+    },
+
+    {
+        "name": "0",
+        "description": "Test",
+        "releaseDate": "Test Janvier Test",
+        "coverPath": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg?t=1617174663",
+        "gameId": "250900"
+    },
+
+    {
+        "name": "1",
+        "description": "Test",
+        "releaseDate": "Test Janvier Test",
+        "coverPath": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg?t=1617174663",
+        "gameId": "250900"
+    },
+
+    {
+        "name": "The Binding of Isaac",
+        "description": "Test",
+        "releaseDate": "Test Janvier Test",
+        "coverPath": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg?t=1617174663",
+        "gameId": "250900"
+    },
+
+    {
+        "name": "The Binding of Isaac",
+        "description": "Test",
+        "releaseDate": "Test Janvier Test",
+        "coverPath": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg?t=1617174663",
+        "gameId": "250900"
+    },
+
+    {
+        "name": "The Binding of Isaac",
+        "description": "Test",
+        "releaseDate": "Test Janvier Test",
+        "coverPath": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg?t=1617174663",
+        "gameId": "250900"
+    }
+]

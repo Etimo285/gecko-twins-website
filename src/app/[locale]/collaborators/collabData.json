@@ -1,0 +1,28 @@
+{
+    "etimo": {
+        "pseudo": "Person A",
+        "fullname": "",
+        "age": 24,
+        "tagline": "Insert tagline here.",
+        "description": "",
+        "image": "/placeholder.jpg",
+        "medias": [
+            { "name": "twitter", "link": "", "tag": "" },
+            { "name": "linkedin", "link": "", "tag": "" },
+            { "name": "patreon", "link": "", "tag": "" }
+        ]
+    },
+    "belzo": {
+        "pseudo": "Person B",
+        "fullname": "",
+        "age": 23,
+        "tagline": "Insert tagline here.",
+        "description": "",
+        "image": "/placeholder.jpg",
+        "medias": [
+            { "name": "mail", "link": "", "tag": "" },
+            { "name": "twitter", "link": "", "tag": "" },
+            { "name": "linkedin", "link": "", "tag": "" }
+        ]
+    }
+}

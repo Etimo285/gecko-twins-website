@@ -1,0 +1,22 @@
+{
+    "kickstarter": {
+        "pageName": "kickstarter",
+        "link": "#"
+    },
+    "discord": {
+        "pageName": "discord",
+        "link": "#"
+    },
+    "youtube": {
+        "pageName": "youtube",
+        "link": "#"
+    },
+    "twitter": {
+        "pageName": "twitter",
+        "link": "#"
+    },
+    "twitch": {
+        "pageName": "twitch",
+        "link": "#"
+    }
+}

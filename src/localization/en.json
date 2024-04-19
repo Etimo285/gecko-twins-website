@@ -1,0 +1,63 @@
+{
+    "home": {
+        "title": "Hello World!"
+    },
+
+    "games": {
+        "release": "Released"
+    },
+
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.",
+        "email": {
+            "label": "Your email",
+            "placeholder": "example@example.com"
+        },
+        "subject": {
+            "label": "Subject",
+            "placeholder": "Let us know the subject of your email"
+        },
+        "message": {
+            "label": "Your message",
+            "placeholder": "Leave a message..."
+        },
+        "agree": {
+            "prefix": "By submitting this form, you confirm that you have read and agree to our",
+            "terms": "Terms and Conditions",
+            "inbetween": "and our",
+            "privacy": "Privacy Policy"
+        },
+        "send": "Send email"
+    },
+
+    "header": {
+        "nav": {
+            "home": "Home",
+            "games": "Games",
+            "socials": "Socials",
+            "team": "Team",
+            "collaborators": "Collaborators",
+            "contact": "Contact"
+        }
+    },
+
+    "footer": {
+        "resources": {
+            "title": "Resources",
+            "home": "Home",
+            "games": "Our Games"
+        },
+        "about": {
+            "title": "About",
+            "team": "Team",
+            "collaborators": "Collaborators"
+        },
+        "legal": {
+            "title": "Legal",
+            "privacy": "Privacy Policy",
+            "terms": "Terms and Conditions"
+        },
+        "reserved": "All Rights Reserved"
+    }
+}

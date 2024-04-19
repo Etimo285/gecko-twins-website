@@ -1,0 +1,63 @@
+{
+    "home": {
+        "title": "Bonjour Monde!"
+    },
+
+    "games": {
+        "release": "Sortie"
+    },
+
+    "contact": {
+        "title": "Nous Contacter",
+        "subtitle": "Un problème technique? Vous souhaitez nous faire part d'un retour sur une version Beta? Vous avez une proposition commerciale? Faites nous en part.",
+        "email": {
+            "label": "Votre email",
+            "placeholder": "exemple@exemple.com"
+        },
+        "subject": {
+            "label": "Objet",
+            "placeholder": "Renseigner l'objet de votre demande"
+        },
+        "message": {
+            "label": "Votre message",
+            "placeholder": "Ecrivez un message..."
+        },
+        "agree": {
+            "prefix": "En soumettant ce formulaire, vous confirmez que vous avez lu et accepté nos",
+            "terms": "Termes et Conditions",
+            "inbetween": "ainsi que notre",
+            "privacy": "Politique de Confidentialité"
+        },
+        "send": "Envoyer"
+    },
+
+    "header": {
+        "nav": {
+            "home": "Acceuil",
+            "games": "Jeux",
+            "socials": "Réseaux",
+            "team": "L'Équipe",
+            "collaborators": "Prestataires",
+            "contact": "Nous Contacter"
+        }
+    },
+
+    "footer": {
+        "resources": {
+            "title": "Ressources",
+            "home": "Acceuil",
+            "games": "Nos Jeux"
+        },
+        "about": {
+            "title": "A Propos",
+            "team": "L'Équipe",
+            "collaborators": "Prestataires"
+        },
+        "legal": {
+            "title": "Légal",
+            "privacy": "Politique de confidentialité",
+            "terms": "Termes et conditions"
+        },
+        "reserved": "Tout droits réservés"
+    }
+}
